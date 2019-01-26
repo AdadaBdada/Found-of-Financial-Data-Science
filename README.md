@@ -11,7 +11,7 @@ The repo is for the Found of Financial Data Science. The homework includes the f
 - Mining Text Data (Using Statistics to Identify Spam)
 - Outlier Detection
 
-## Assignment 1 
+## [Assignment 1] (https://github.com/AdadaBdada/Found-of-Financial-Data-Science/tree/master/Assignment_1)
 
 - Explore realdirect.com thinking about how buyers and sellers would navigate, and how the website is organized. Use the datasets provided for Bronx, Brooklyn, Manhattan, Queens, and Staten Island.
 > - Load in and clean the data.
