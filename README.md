@@ -4,18 +4,7 @@
 
 1. [Assignment_1](#Assignment_1): Exploratory Data Analysis 
 2. [Assignment_2](#Assignment_2): Data and Web Technologies (Web page retrieval, scrapping, regular expression extraction, basic statistical techniques to identify wrong data entries. Linear Model. Piecewise linear model.)
-3. Assignment_3:
-
-The repo is for the Found of Financial Data Science. The homework includes the following aspects using R.
-
-- Data Preparation
-- Data and Web Technologies (including access financial data through different APIs)
-- Similarity and Distance()
-- Trading Strategy and Simulation
-- Classification Methods using R
-- Tree-Based Methods & Clustering
-- Mining Text Data (Using Statistics to Identify Spam)
-- Outlier Detection
+3. [Assignment_3]:
 
 ## [Assignment_1](https://github.com/AdadaBdada/Found-of-Financial-Data-Science/tree/master/Assignment_1)<a name="Assignment_1"></a>
 
