@@ -2,9 +2,9 @@
 
 ### Table of Content
 
-[Assignment_1](#Assignment_1): Exploratory Data Analysis 
-Assignment_2:  Data and Web Technologies (Web page retrieval, scrapping, regular expression extraction, basic statistical techniques to identify wrong data entries. Linear Model. Piecewise linear model.)
-Assignment_3:
+1.[Assignment_1](#Assignment_1): Exploratory Data Analysis 
+2.Assignment_2:  Data and Web Technologies (Web page retrieval, scrapping, regular expression extraction, basic statistical techniques to identify wrong data entries. Linear Model. Piecewise linear model.)
+3.Assignment_3:
 
 The repo is for the Found of Financial Data Science. The homework includes the following aspects using R.
 
@@ -17,7 +17,7 @@ The repo is for the Found of Financial Data Science. The homework includes the f
 - Mining Text Data (Using Statistics to Identify Spam)
 - Outlier Detection
 
-## Assignment_1<a name="Assignment_1"></a>
+## Assignment_1<a name="Assignment_1"></a>(https://github.com/AdadaBdada/Found-of-Financial-Data-Science/tree/master/Assignment_1)
 
 ### 1. Explore realdirect.com thinking about how buyers and sellers would navigate, and how the website is organized.
 Use the datasets provided for Bronx, Brooklyn, Manhattan, Queens, and Staten Island.
