@@ -3,7 +3,7 @@
 ### Table of Content
 
 1. [Assignment_1](#Assignment_1): Exploratory Data Analysis 
-2. Assignment_2:  Data and Web Technologies (Web page retrieval, scrapping, regular expression extraction, basic statistical techniques to identify wrong data entries. Linear Model. Piecewise linear model.)
+2. [Assignment_2](#Assignment_2): Data and Web Technologies (Web page retrieval, scrapping, regular expression extraction, basic statistical techniques to identify wrong data entries. Linear Model. Piecewise linear model.)
 3. Assignment_3:
 
 The repo is for the Found of Financial Data Science. The homework includes the following aspects using R.
@@ -34,5 +34,7 @@ The datasets provided nyt1.csv, nyt2.csv, and nyt3.csv represents three (simulat
 >    - Define a new variable to segment or categorize users based on their click behavior.
 >    - Explore the data and make visual and quantitative comparisons across user segments/demographics
 >    - Extend analysis across days. Visualize some metrics and distributions over time. 
+
+## [Assignment_2](https://github.com/AdadaBdada/Found-of-Financial-Data-Science/tree/master/Assignment_2)<a name="Assignment_2"></a>
     
 
