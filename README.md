@@ -24,7 +24,7 @@ The repo is for the Found of Financial Data Science. The homework includes the f
 > -  For each day:
 >    - Plot the distribution of number of impressions and click-through-rate (CTR = #clicks / #impressions) for these age categories
 >    - Define a new variable to segment or categorize users based on their click behavior.
->    - Explore the data and make visual and quantitative comparisons across user segments/demographics (<20-year-old males versus <20-year-old females or logged-in versus not, for example).
->    - Extend your analysis across days. Visualize some metrics and distributions over time. 
+>    - Explore the data and make visual and quantitative comparisons across user segments/demographics
+>    - Extend analysis across days. Visualize some metrics and distributions over time. 
     
 
