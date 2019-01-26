@@ -36,5 +36,22 @@ The datasets provided nyt1.csv, nyt2.csv, and nyt3.csv represents three (simulat
 >    - Extend analysis across days. Visualize some metrics and distributions over time. 
 
 ## [Assignment_2](https://github.com/AdadaBdada/Found-of-Financial-Data-Science/tree/master/Assignment_2)<a name="Assignment_2"></a>
+
+Use the Race Results 1999-2012 link (http://cherryblossom.org/aboutus/results_list.php ) to extract the Race Results for Order of Finish – Women for a couple of years. 
+• Box Plot of Age by Year for Female Runners
+• Scatter Plot for Run Times vs. Age for Female Runners
+• Fit Models to Average Performance
+• Side-by-Side Boxplots of Female Runners’ Run Time vs. Age
+• Residual Plot from Fitting a Simple Linear Model of Performance to Age
+• Piecewise Linear and Loess Curves Fitted to Run Time vs. Age
+• Line Plot of the Number of Female Runners by Year
+• Density Curves for the Age of Female Runners for 2 years (smallest and largest year that
+you analyzed)
+• Loess Curves Fit to Performance for 2 years (smallest and largest year that you
+analyzed) Female Runners
+• Difference between Loess Curves of the predicted run time for 2 years (smallest and
+largest year that you analyzed)
+• Compare the results of the performance of the male runners (previously analyzed in
+class) and female runners for the yearly data that you selected to analyze
     
 
