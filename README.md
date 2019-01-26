@@ -14,9 +14,9 @@ The repo is for the Found of Financial Data Science. The homework includes the f
 ## Assignment 1 
 
 - Explore realdirect.com thinking about how buyers and sellers would navigate, and how the website is organized. Use the datasets provided for Bronx, Brooklyn, Manhattan, Queens, and Staten Island.
-> Load in and clean the data.
-> Conduct exploratory data analysis in order to find out where there are outliers or missing values, decide how to handle the them
-> Conduct exploratory data analysis to visualize and make comparisons for residential building category classes across boroughs and across time Use histograms, boxplots, scatterplots or other visual graphs. Provide summary statistics along with  conclusions.
+> - Load in and clean the data.
+> - Conduct exploratory data analysis in order to find out where there are outliers or missing values, decide how to handle the them
+> - Conduct exploratory data analysis to visualize and make comparisons for residential building category classes across boroughs and across time Use histograms, boxplots, scatterplots or other visual graphs. Provide summary statistics along with  conclusions.
     
     
 
